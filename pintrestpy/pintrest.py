@@ -181,8 +181,8 @@ def login(driver,username,password, search_term):
 
 
 # search_term=input("Enter the image that you want to download:")
-# username=input("Enter your user name:")#"mastudganesh6@gmail.com"#
-# password=getpass("Enter your password:")#"ganesh@1"#
+# username=input("Enter your user name:")
+# password=getpass("Enter your password:")
 
 
 
